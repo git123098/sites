@@ -3,9 +3,9 @@ var isRightsEnabled = false; // Права
 var isCovidCertificateEnabled = false; // COVID-сертификат
 
 // Общее
-var birthdate = "23.03.2005"; // Дата рождения
-var fullname = "Дець Софія Віталіївна" // ФИО
-var name = "Софія" // Имя
+var birthdate = "14.11.2004"; // Дата рождения
+var fullname = "Околіта Руслан Сергійович" // ФИО
+var name = "Руслан" // Имя
 
 // Паспорт
 var passport_id = "910359135" // Номер паспорта
